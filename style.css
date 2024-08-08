@@ -1,0 +1,16 @@
+<style> 
+.central {text-align:center;}
+
+    <!--primeiro tema  especificação simples que é só pela letra e numero ex: h1 -->
+    h1 {color:blue; font-size: 26px;}
+
+    <!--depois fica um pouco mais especifico com o class: . + nome da linha ex: . supertitulo -->>
+.supertitulo{color:blue; font-size: 30px;}
+
+
+<!--então fica mais especifico ainda com id: # + nome da linha ex: # tituloprincipal -->
+    p{background-color: bisque;}
+#tituloprincipal{font-size: 40px; color:rgb(127, 57, 239);}   
+
+
+   </style>
